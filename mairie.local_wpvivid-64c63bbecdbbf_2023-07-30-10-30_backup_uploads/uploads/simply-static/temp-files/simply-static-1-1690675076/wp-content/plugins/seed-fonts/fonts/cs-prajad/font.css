@@ -1,0 +1,18 @@
+/*
+ Font Name: CS Prajad
+ Weights: 400, 700
+*/
+@font-face {
+  font-family: "cs-prajad";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/cs-prajad/csprajad-bold-webfont.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "cs-prajad";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/cs-prajad/csprajad-webfont.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;LicenseEnvato\Error\Form_Error&quot; not found in <b>/home/henri/Local Sites/mairie/app/public/wp-content/plugins/license-envato/includes/Admin/Settings.php</b> on line <b>15</b><br>

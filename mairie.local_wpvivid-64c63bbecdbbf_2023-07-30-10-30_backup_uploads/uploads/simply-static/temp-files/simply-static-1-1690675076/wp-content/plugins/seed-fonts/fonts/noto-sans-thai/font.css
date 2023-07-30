@@ -1,0 +1,131 @@
+/*
+Font Name: Noto Sans Thai
+Weights: 100, 200, 300, 400, 500, 600, 700, 800
+*/
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-extralight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-semibold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-extrabold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosans-black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-extralight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-semibold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-extrabold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "noto-sans-thai";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/noto-sans-thai/notosansthai-black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

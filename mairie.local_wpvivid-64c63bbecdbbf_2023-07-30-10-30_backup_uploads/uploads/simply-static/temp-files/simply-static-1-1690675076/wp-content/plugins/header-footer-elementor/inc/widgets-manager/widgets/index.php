@@ -1,0 +1,2 @@
+<br>
+<b>Parse error</b>:  Unterminated comment starting line 2 in <b>/home/henri/Local Sites/mairie/app/public/wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/index.php</b> on line <b>2</b><br>

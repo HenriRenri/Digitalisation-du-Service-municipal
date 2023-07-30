@@ -1,0 +1,25 @@
+/*
+Font Name: Anuphan
+Weights: 400, 500, 700
+*/
+@font-face {
+  font-family: "Anuphan";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/anuphan/anuphan.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Anuphan";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/anuphan/anuphan-medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Anuphan";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/anuphan/anuphan-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

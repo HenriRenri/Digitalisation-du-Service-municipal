@@ -1,0 +1,20 @@
+/*
+ Font Name: Cloud
+ Weights: 300, 700
+*/
+
+@font-face {
+  font-family: "cloud";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/cloud/cloud-bold-webfont.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "cloud";
+  src: url("http henrirenri.github.io/Digitalisation-de-la-mairie//wp-content/plugins/seed-fonts/fonts/cloud/cloud-light-webfont.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
